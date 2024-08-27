@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently building mern projects
 
-- 👨‍💻 All of my projects are available at [https://5.netlify.app/](https://.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://reliable-centaur-b15f26.netlify.app/](https://reliable-centaur-b15f26.netlify.app/)
 
 
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **anuragkumaryadav977@gmail.com**
 
-- 📄 Know about my experiences [[https://1drv.ms/b/s!AgYoXCl18y7UgnXBC_JkjUf9KiyM](https://1drv.ms/b/s!AgYoXCl18y7UgnXBC_JkjUf9KiyM)]
+- 📄 Know about my experiences [[https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66ba1008c66b201a8272b4c9](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66ba1008c66b201a8272b4c9)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
